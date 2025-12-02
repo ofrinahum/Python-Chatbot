@@ -1,0 +1,8 @@
+# OpenAI API client
+openai>=1.0.0
+
+# Optional: Streamlit GUI (if you want a web interface later)
+streamlit>=1.25.0
+
+# Optional: for safe code evaluation or other utilities
+ipython>=8.0.0
